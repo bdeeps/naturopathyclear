@@ -1,0 +1,770 @@
+{
+ "title": "The history of naturopathy",
+ "tagline": "200 years from a Silesian water cure to Gandhi's village ashram and India's Naturopathy Day.",
+ "intro": "Nature cure began in 19th-century Europe with cold baths, fresh air and plain food. A German book reached India in the 1890s and found its most famous follower in Mahatma Gandhi, who turned it into a movement for village health. Today it is part of India's AYUSH system, with its own institute, degree and national day, while science tests which of its parts really work.",
+ "eras": [
+  {
+   "id": "water",
+   "name": "The water cure",
+   "from": 1816,
+   "to": 1890,
+   "color": "#8ab4ff",
+   "summary": "Healers in the mountains of Central Europe treat patients with cold water, wet wraps, sun, air and simple food."
+  },
+  {
+   "id": "name",
+   "name": "Nature cure gets a name",
+   "from": 1890,
+   "to": 1910,
+   "color": "#ffd166",
+   "summary": "Kuhne and Just write the books, the word 'naturopathy' is born in New York, and the ideas arrive in India in Telugu, Hindi and Urdu."
+  },
+  {
+   "id": "gandhi",
+   "name": "Gandhi's nature cure",
+   "from": 1905,
+   "to": 1950,
+   "color": "#9be08a",
+   "summary": "Gandhi tests earth and water treatments on himself, writes Key to Health, and opens nature cure to villagers."
+  },
+  {
+   "id": "india",
+   "name": "A national system",
+   "from": 1950,
+   "to": 2026,
+   "color": "#ffa06a",
+   "summary": "India builds a research council, a national institute, a degree, a ministry and a Naturopathy Day."
+  },
+  {
+   "id": "science",
+   "name": "Science takes a look",
+   "from": 1960,
+   "to": 2026,
+   "color": "#c9a7ff",
+   "summary": "Physiology explains what fasting and water really do, and fair tests check which therapies work."
+  }
+ ],
+ "events": [
+  {
+   "year": 1822,
+   "date": "1822 (treating neighbours from about 1816)",
+   "era": "water",
+   "art": "waterdrop",
+   "key": true,
+   "title": "A farmer's water cure",
+   "who": "Vincenz Priessnitz",
+   "where": "Gräfenberg, Silesia (now Lázně Jeseník)",
+   "country": "Czech Republic",
+   "text": "A young farmer who had healed his own broken ribs with wet bandages began treating neighbours with cold water. In 1822 he rebuilt his father's house as a spa: cold baths, wet wraps, fresh air, walks and plain food.",
+   "why": "It started the European 'water cure', the root of the hip baths and packs used in naturopathy today.",
+   "box": "roots",
+   "sources": [
+    1,
+    0
+   ]
+  },
+  {
+   "year": 1839,
+   "date": "1839",
+   "era": "water",
+   "art": "person",
+   "title": "Europe comes to Gräfenberg",
+   "who": "Vincenz Priessnitz",
+   "where": "Gräfenberg, Silesia",
+   "country": "Czech Republic",
+   "text": "About 1,500 patients arrived in a single year, among them a duke, princes and counts, and 120 doctors came to study the method. Priessnitz had received an official licence the year before.",
+   "why": "Water cure became a fashion across Europe and spread to Britain and America.",
+   "sources": [
+    1
+   ]
+  },
+  {
+   "year": 1855,
+   "date": "1855",
+   "era": "water",
+   "art": "heatwaves",
+   "title": "Sun and air baths",
+   "who": "Arnold Rikli",
+   "where": "Veldes (now Bled)",
+   "country": "Slovenia",
+   "text": "A Swiss dye-works owner turned healer opened a centre where patients sunbathed, walked in light clothes and slept in open-air huts, his 'atmospheric cure'.",
+   "why": "It added sun and air to water, two of naturopathy's five elements.",
+   "sources": [
+    6,
+    0
+   ]
+  },
+  {
+   "year": 1886,
+   "date": "1886",
+   "era": "water",
+   "art": "waterdrop",
+   "key": true,
+   "title": "My Water Cure",
+   "who": "Sebastian Kneipp",
+   "where": "Wörishofen, Bavaria",
+   "country": "Germany",
+   "text": "A priest who believed cold baths in the Danube had helped him recover from tuberculosis wrote 'Meine Wasserkur'. It taught cold affusions, walking barefoot in wet grass, herbs, exercise and simple food, and was translated into many languages.",
+   "why": "Kneipp's book made nature cure a household idea, and his 'five pillars' still shape spa therapy.",
+   "box": "therapies",
+   "sources": [
+    2,
+    0
+   ]
+  },
+  {
+   "year": 1891,
+   "date": "1891",
+   "era": "name",
+   "art": "scroll",
+   "key": true,
+   "title": "One disease, one cure",
+   "who": "Louis Kuhne",
+   "where": "Leipzig",
+   "country": "Germany",
+   "text": "Kuhne's 'Die neue Heilwissenschaft' (The New Science of Healing) claimed that every illness is one thing, a build-up of 'foreign matter'. His cure: cold hip and friction sitz baths at about 10 to 14 °C, steam baths and a raw vegetarian diet.",
+   "why": "His 'unity of disease' idea and his hip bath became the backbone of Indian nature cure.",
+   "box": "ideas",
+   "sources": [
+    3,
+    7
+   ]
+  },
+  {
+   "year": 1894,
+   "date": "c. 1894",
+   "era": "name",
+   "art": "word",
+   "key": true,
+   "title": "Kuhne in Telugu",
+   "who": "Dronamraju Venkatachalapathi Sarma",
+   "where": "Andhra region",
+   "country": "India",
+   "text": "Kuhne's book was translated into Telugu, one of its earliest translations into an Indian language. Nature cure groups grew in Andhra, Bengal, Gujarat, Maharashtra and Uttar Pradesh.",
+   "why": "Indian naturopathy counts this translation as its starting point.",
+   "box": "roots",
+   "sources": [
+    7,
+    21
+   ]
+  },
+  {
+   "year": 1895,
+   "date": "1895",
+   "era": "name",
+   "art": "word",
+   "title": "A new word",
+   "who": "John H. Scheel",
+   "where": "New York",
+   "country": "United States",
+   "text": "A German-American doctor coined the word 'naturopathy', a mix of nature and the Greek pathos (suffering), for his methods.",
+   "why": "The name that the whole movement would later take.",
+   "sources": [
+    0,
+    5
+   ]
+  },
+  {
+   "year": 1896,
+   "date": "1896",
+   "era": "name",
+   "art": "earth",
+   "title": "Return to Nature",
+   "who": "Adolf Just",
+   "where": "Jungborn, Harz mountains",
+   "country": "Germany",
+   "text": "Just published 'Kehrt zur Natur zurück!' and ran the Jungborn centre, where patients slept outdoors and used wet earth packs, light, air and a vegetarian diet.",
+   "why": "His book taught Gandhi mud treatment, which became a staple of Indian naturopathy.",
+   "sources": [
+    4,
+    8
+   ]
+  },
+  {
+   "year": 1902,
+   "date": "1901–1902",
+   "era": "name",
+   "art": "quill",
+   "key": true,
+   "title": "Naturopathy gets its name",
+   "who": "Benedict Lust",
+   "where": "New York",
+   "country": "United States",
+   "text": "A German migrant trained in Kneipp's methods bought the name from Scheel and used it for his American School of Naturopathy and his magazine. He is called the father of naturopathy in the United States.",
+   "why": "In America naturopathy later grew to include herbs, homeopathy and supplements, unlike India's drug-free nature cure.",
+   "box": "roots",
+   "sources": [
+    5,
+    0
+   ]
+  },
+  {
+   "year": 1904,
+   "date": "1904",
+   "era": "name",
+   "art": "word",
+   "title": "In Hindi and Urdu",
+   "who": "Shroti Kishan Swaroop",
+   "where": "North India",
+   "country": "India",
+   "text": "Kuhne's book was translated into Hindi and Urdu, taking nature cure to readers across North India.",
+   "why": "Nature cure reached far more Indian readers in their own languages.",
+   "sources": [
+    7,
+    21
+   ]
+  },
+  {
+   "year": 1913,
+   "date": "c. 1906–1913",
+   "era": "gandhi",
+   "art": "leaf",
+   "title": "Gandhi's earth and water experiments",
+   "who": "M. K. Gandhi",
+   "where": "Phoenix Settlement and Tolstoy Farm, near Durban and Johannesburg",
+   "country": "South Africa",
+   "text": "In South Africa Gandhi read Kuhne and Just and tried hip baths, mud packs and diet changes on himself, his family and friends. He wrote a series of health articles in his paper Indian Opinion, later printed as 'A Guide to Health'.",
+   "why": "It began Gandhi's lifelong advocacy of nature cure.",
+   "sources": [
+    29,
+    8
+   ]
+  },
+  {
+   "year": 1929,
+   "date": "1929",
+   "era": "gandhi",
+   "art": "building",
+   "title": "A nature cure clinic in Pune",
+   "who": "Dr Dinshaw K. Mehta",
+   "where": "Tadiwala Road, Pune",
+   "country": "India",
+   "text": "Dinshaw Mehta opened his Nature Cure Clinic and Sanatorium. Gandhi became a friend and patient.",
+   "why": "The building, later Bapu Bhavan, became the National Institute of Naturopathy.",
+   "sources": [
+    10,
+    11
+   ]
+  },
+  {
+   "year": 1942,
+   "date": "27 Aug to 18 Dec 1942 (published 1948)",
+   "era": "gandhi",
+   "art": "quill",
+   "key": true,
+   "title": "Key to Health",
+   "who": "M. K. Gandhi",
+   "where": "Aga Khan Palace, Pune",
+   "country": "India",
+   "text": "While held in prison during the Quit India movement, Gandhi wrote short chapters on the body, food, air, water, earth, sun and akash (space), and on self-control. Navajivan published the book in October 1948.",
+   "why": "It set out nature cure in plain words for millions of Indian readers.",
+   "box": "ideas",
+   "sources": [
+    9,
+    8
+   ]
+  },
+  {
+   "year": 1944,
+   "date": "June 1944",
+   "era": "gandhi",
+   "art": "person",
+   "title": "Gandhi at the nature cure clinic",
+   "who": "M. K. Gandhi and Dr Dinshaw Mehta",
+   "where": "Nature Cure Clinic, Pune",
+   "country": "India",
+   "text": "After his release from prison, Gandhi arrived at Dr Mehta's clinic on 15 June 1944. Over the next two years he stayed there for about 156 days in all.",
+   "why": "Gandhi's long stays gave the clinic, and nature cure, national attention.",
+   "sources": [
+    10,
+    11
+   ]
+  },
+  {
+   "year": 1945,
+   "date": "18 November 1945",
+   "era": "gandhi",
+   "art": "scroll",
+   "key": true,
+   "title": "A trust for nature cure",
+   "who": "M. K. Gandhi",
+   "where": "Pune",
+   "country": "India",
+   "text": "Gandhi became founder-trustee and chairman for life of the All India Nature Cure Foundation Trust, signing a deed to make nature cure available to all, especially the poor.",
+   "why": "India's Naturopathy Day is held on this date.",
+   "box": "roots",
+   "sources": [
+    8,
+    21
+   ]
+  },
+  {
+   "year": 1946,
+   "date": "22 March to 1 April 1946",
+   "era": "gandhi",
+   "art": "leaf",
+   "key": true,
+   "title": "A village nature cure ashram",
+   "who": "M. K. Gandhi, later Manibhai Desai",
+   "where": "Urulikanchan, near Pune",
+   "country": "India",
+   "text": "Gandhi came to the village of Urulikanchan and set up a nature cure centre for rural people, with village sanitation, clean water, diet, mud and water treatments. Local people gave land for the trust.",
+   "why": "The Nisargopchar Ashram still treats thousands of patients a year.",
+   "box": "roots",
+   "sources": [
+    15,
+    17,
+    16
+   ]
+  },
+  {
+   "year": 1967,
+   "date": "1967",
+   "era": "science",
+   "art": "brain",
+   "title": "The brain runs on ketones in a fast",
+   "who": "Oliver Owen, George Cahill and colleagues",
+   "where": "Boston",
+   "country": "United States",
+   "text": "By measuring blood going into and out of the brain of fasting volunteers, the team showed that after several weeks ketones made from fat supply most of the brain's fuel.",
+   "why": "It explained how people survive long fasts, and why fasting shifts the body onto fat.",
+   "box": "evidence",
+   "sources": [
+    24
+   ]
+  },
+  {
+   "year": 1978,
+   "date": "30 March 1978",
+   "era": "india",
+   "art": "flask",
+   "key": true,
+   "title": "A research council",
+   "who": "Government of India",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "A joint research council for Indian medicine and homoeopathy was split into separate councils, one of them the Central Council for Research in Yoga & Naturopathy (CCRYN).",
+   "why": "Yoga and naturopathy got their own national research body.",
+   "box": "evidence",
+   "sources": [
+    13,
+    14
+   ]
+  },
+  {
+   "year": 1986,
+   "date": "22 December 1986",
+   "era": "india",
+   "art": "building",
+   "key": true,
+   "title": "National Institute of Naturopathy",
+   "who": "Government of India",
+   "where": "Bapu Bhavan, Pune",
+   "country": "India",
+   "text": "Dr Mehta's trust handed its clinic to the government, and the National Institute of Naturopathy opened in the house where Gandhi had stayed.",
+   "why": "NIN trains therapists, treats patients and promotes nature cure across India.",
+   "box": "roots",
+   "sources": [
+    11,
+    12,
+    10
+   ]
+  },
+  {
+   "year": 1989,
+   "date": "1989",
+   "era": "india",
+   "art": "word",
+   "title": "A degree in naturopathy",
+   "who": "SDM Educational Society",
+   "where": "Ujire, Karnataka",
+   "country": "India",
+   "text": "India's first college of naturopathy and yogic sciences opened, offering what became the 5½-year BNYS degree, including a one-year internship.",
+   "why": "Naturopathy gained a full professional degree course.",
+   "sources": [
+    23
+   ]
+  },
+  {
+   "year": 1991,
+   "date": "1991",
+   "era": "science",
+   "art": "liver",
+   "title": "Watching the liver during a fast",
+   "who": "Douglas Rothman, Gerald Shulman and colleagues",
+   "where": "New Haven",
+   "country": "United States",
+   "text": "Using magnetic resonance, the team measured liver sugar stores in people fasting for 68 hours. New glucose made by the liver supplied 64% of blood sugar in the first 22 hours and 96% later on.",
+   "why": "It showed exactly how the body keeps blood sugar steady without food.",
+   "box": "evidence",
+   "sources": [
+    25
+   ]
+  },
+  {
+   "year": 2014,
+   "date": "9 November 2014",
+   "era": "india",
+   "art": "scales",
+   "key": true,
+   "title": "Ministry of AYUSH",
+   "who": "Government of India",
+   "where": "New Delhi",
+   "country": "India",
+   "text": "The Department of AYUSH, formed in 2003, became a full ministry for Ayurveda, Yoga & Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy.",
+   "why": "Naturopathy now sits in a national ministry with its own institutes and research council.",
+   "box": "roots",
+   "sources": [
+    18
+   ]
+  },
+  {
+   "year": 2015,
+   "date": "21 June 2015",
+   "era": "india",
+   "art": "person",
+   "key": true,
+   "title": "The first International Day of Yoga",
+   "who": "United Nations, proposed by India",
+   "where": "Worldwide",
+   "country": "India",
+   "text": "The UN General Assembly adopted India's proposal on 11 December 2014, backed by 177 countries. The first day was held on 21 June 2015, with a record mass session on Rajpath, New Delhi.",
+   "why": "Yoga, the partner of naturopathy in AYUSH, became a worldwide annual event.",
+   "box": "overlap",
+   "sources": [
+    19,
+    20
+   ]
+  },
+  {
+   "year": 2015,
+   "date": "2015",
+   "era": "science",
+   "art": "liver",
+   "title": "Detox diets reviewed",
+   "who": "Adam Klein and Hosen Kiat",
+   "where": "Sydney",
+   "country": "Australia",
+   "text": "A review of the evidence found almost no good clinical trials of detox diets, and none showing that they remove specific toxins from the body.",
+   "why": "It supports what physiology says: the liver and kidneys already do the cleaning.",
+   "box": "evidence",
+   "sources": [
+    28
+   ]
+  },
+  {
+   "year": 2018,
+   "date": "18 November 2018",
+   "era": "india",
+   "art": "leaf",
+   "key": true,
+   "title": "The first Naturopathy Day",
+   "who": "Ministry of AYUSH",
+   "where": "Across India",
+   "country": "India",
+   "text": "India marked 18 November, the date of Gandhi's 1945 trust deed, as Naturopathy Day, with health camps, talks and walks.",
+   "why": "It honours Gandhi's role and promotes drug-free healthy living.",
+   "box": "wisely",
+   "sources": [
+    21,
+    22,
+    31
+   ]
+  },
+  {
+   "year": 2022,
+   "date": "November 2022",
+   "era": "science",
+   "art": "scales",
+   "title": "Yoga for back pain, tested",
+   "who": "Cochrane review (Wieland and colleagues)",
+   "where": "International",
+   "country": "United States",
+   "text": "A review of 21 trials with 2,223 people, several of them run in India, found yoga gave a small improvement in back pain compared with no exercise, and about the same as other back exercises.",
+   "why": "A fair look at one of the best-studied parts of yoga and naturopathy.",
+   "box": "overlap",
+   "sources": [
+    26
+   ]
+  },
+  {
+   "year": 2024,
+   "date": "May 2024",
+   "era": "science",
+   "art": "leaf",
+   "key": true,
+   "title": "Dietary Guidelines for Indians",
+   "who": "ICMR-National Institute of Nutrition",
+   "where": "Hyderabad",
+   "country": "India",
+   "text": "India's nutrition institute issued 17 guidelines: a plate rich in vegetables, fruit, pulses and whole grains, at most 5 g of added salt a day, little sugar and few ultra-processed foods, and regular exercise.",
+   "why": "Much of it matches nature cure's advice on diet, and it is backed by evidence.",
+   "box": "overlap",
+   "sources": [
+    27
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "First water-cure spa",
+   "value": "1822",
+   "who": "Vincenz Priessnitz, Gräfenberg (now Czech Republic)"
+  },
+  {
+   "label": "Word 'naturopathy' coined",
+   "value": "1895",
+   "who": "John H. Scheel, New York"
+  },
+  {
+   "label": "First translation of Kuhne into an Indian language",
+   "value": "c. 1894",
+   "who": "D. Venkatachalapathi Sarma, Telugu"
+  },
+  {
+   "label": "First college of naturopathy and yogic sciences in India",
+   "value": "1989",
+   "who": "SDM College, Ujire, Karnataka"
+  },
+  {
+   "label": "First Naturopathy Day",
+   "value": "18 November 2018",
+   "who": "Ministry of AYUSH, India"
+  }
+ ],
+ "people": [
+  {
+   "name": "Vincenz Priessnitz",
+   "life": "1799 – 1851",
+   "role": "Farmer and water-cure healer",
+   "from": "Gräfenberg, Austrian Silesia",
+   "note": "Began the water cure that nature cure grew from."
+  },
+  {
+   "name": "Sebastian Kneipp",
+   "life": "1821 – 1897",
+   "role": "Priest and hydrotherapist",
+   "from": "Bavaria, Germany",
+   "note": "His 'My Water Cure' (1886) made cold-water treatment world famous."
+  },
+  {
+   "name": "Louis Kuhne",
+   "life": "1835 – 1901",
+   "role": "Nature cure teacher",
+   "from": "Leipzig, Germany",
+   "note": "Taught the 'one disease, one cure' idea and the hip bath."
+  },
+  {
+   "name": "Adolf Just",
+   "life": "1859 – 1936",
+   "role": "Nature cure writer",
+   "from": "Harz, Germany",
+   "note": "His 'Return to Nature' taught Gandhi mud treatment."
+  },
+  {
+   "name": "Benedict Lust",
+   "life": "1872 – 1945",
+   "role": "Naturopath",
+   "from": "Germany, worked in New York",
+   "note": "Made the word 'naturopathy' famous in America."
+  },
+  {
+   "name": "D. Venkatachalapathi Sarma",
+   "life": "19th – 20th century",
+   "role": "Translator",
+   "from": "Andhra region, India",
+   "note": "Translated Kuhne into Telugu around 1894."
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "life": "1869 – 1948",
+   "role": "Leader of India's freedom movement",
+   "from": "Porbandar, India",
+   "note": "Nature cure's most famous advocate; founded the Urulikanchan ashram."
+  },
+  {
+   "name": "Dinshaw K. Mehta",
+   "life": "1903 – 1993",
+   "role": "Naturopath",
+   "from": "Pune, India",
+   "note": "His clinic, where Gandhi stayed, became the National Institute of Naturopathy."
+  },
+  {
+   "name": "Manibhai Desai",
+   "life": "1920 – 1993",
+   "role": "Social worker",
+   "from": "Gujarat, worked in Maharashtra",
+   "note": "Ran the Urulikanchan ashram after Gandhi and built rural development work around it."
+  }
+ ],
+ "series": [],
+ "facts": [
+  "The word 'naturopathy' was coined in 1895 by John Scheel in New York, and Benedict Lust bought the rights to use it.",
+  "Gandhi wrote 'Key to Health' in prison in 1942, but it was published only in 1948, after his death.",
+  "There are two 'NIN's: the National Institute of Naturopathy in Pune, and the ICMR-National Institute of Nutrition in Hyderabad.",
+  "Kuhne's hip bath used water at about 10 to 14 °C, with the legs kept out of the tub.",
+  "In a fast, the liver makes about 96% of the body's new blood sugar by the third day."
+ ],
+ "sources": [
+  {
+   "title": "Naturopathy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Naturopathy"
+  },
+  {
+   "title": "Vincenz Priessnitz",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vincenz_Priessnitz"
+  },
+  {
+   "title": "Sebastian Kneipp",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sebastian_Kneipp"
+  },
+  {
+   "title": "Louis Kuhne",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Louis_Kuhne"
+  },
+  {
+   "title": "Adolf Just",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Adolf_Just"
+  },
+  {
+   "title": "Benedict Lust",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Benedict_Lust"
+  },
+  {
+   "title": "Arnold Rikli",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Arnold_Rikli"
+  },
+  {
+   "title": "Historical facts about Indian naturopathy",
+   "publisher": "Ministry of Ayush, Ayush Next",
+   "url": "https://ayushnext.ayush.gov.in/detail/post/historical-facts-about-indian-naturopathy"
+  },
+  {
+   "title": "Mahatma Gandhi and nature cure (Satyalakshmi, 2019)",
+   "publisher": "Indian Journal of Medical Research, via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6515730/"
+  },
+  {
+   "title": "Key to Health, M. K. Gandhi (Navajivan, 1948)",
+   "publisher": "mkgandhi.org",
+   "url": "https://www.mkgandhi.org/ebks/key_to_health.pdf"
+  },
+  {
+   "title": "Dr. Mehta's Nature Cure Clinic, Pune",
+   "publisher": "Gandhi Heritage Portal",
+   "url": "https://gandhiheritageportal.org/gandhi_heritage_site/writeup/Mjg="
+  },
+  {
+   "title": "National Institute of Naturopathy, Pune",
+   "publisher": "Ministry of Ayush, Government of India",
+   "url": "https://main.ayush.gov.in/about-the-systems/naturopathy/national-institute-naturopathy-pune"
+  },
+  {
+   "title": "National Institute of Naturopathy",
+   "publisher": "NIN Pune (Ministry of Ayush)",
+   "url": "https://ninpune.ayush.gov.in/"
+  },
+  {
+   "title": "Central Council for Research in Yoga & Naturopathy",
+   "publisher": "Ayush Information Hub, Government of India",
+   "url": "https://infohub.ayush.gov.in/autonomous/ccryn"
+  },
+  {
+   "title": "Central Council for Research in Yoga & Naturopathy",
+   "publisher": "CCRYN",
+   "url": "http://ccryn.gov.in/"
+  },
+  {
+   "title": "Uruli Kanchan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Uruli_Kanchan"
+  },
+  {
+   "title": "Manibhai Desai",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manibhai_Desai"
+  },
+  {
+   "title": "Nisargopchar Ashram: Gandhi's legacy and public health in contemporary India (Alter, 2019)",
+   "publisher": "SAGE Journals",
+   "url": "https://journals.sagepub.com/doi/abs/10.1177/2277436X19881260"
+  },
+  {
+   "title": "Ministry of Ayush",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ministry_of_Ayush"
+  },
+  {
+   "title": "International Day of Yoga",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/International_Day_of_Yoga"
+  },
+  {
+   "title": "International Day of Yoga, 21 June",
+   "publisher": "United Nations",
+   "url": "https://www.un.org/en/observances/yoga-day"
+  },
+  {
+   "title": "History and significance of naturopathy: National Naturopathy Day 2022",
+   "publisher": "ETV Bharat",
+   "url": "https://www.etvbharat.com/english/sukhibhava/sukhibhava-news/history-and-significance-of-naturopathy-national-naturopathy-day-2022/na20221118000040093093386"
+  },
+  {
+   "title": "About Naturopathy Day",
+   "publisher": "Naturopathy Day (Ministry of Ayush)",
+   "url": "https://naturopathyday.in/about.php"
+  },
+  {
+   "title": "About us: SDM College of Naturopathy and Yogic Sciences",
+   "publisher": "SDM College, Ujire",
+   "url": "https://sdmbnys.in/about-us/"
+  },
+  {
+   "title": "Brain metabolism during fasting (Owen et al., 1967)",
+   "publisher": "Journal of Clinical Investigation",
+   "url": "https://www.jci.org/articles/view/105650"
+  },
+  {
+   "title": "Quantitation of hepatic glycogenolysis and gluconeogenesis in fasting humans with 13C NMR (Rothman et al., 1991)",
+   "publisher": "Science",
+   "url": "https://www.science.org/doi/10.1126/science.1948033"
+  },
+  {
+   "title": "Yoga for chronic non-specific low back pain (Wieland et al., 2022)",
+   "publisher": "Cochrane",
+   "url": "https://www.cochrane.org/evidence/CD010671_yoga-chronic-non-specific-low-back-pain"
+  },
+  {
+   "title": "Dietary Guidelines for Indians, 2024",
+   "publisher": "ICMR-National Institute of Nutrition, Hyderabad",
+   "url": "https://nin.res.in/dietaryguidelines/pdfjs/locale/DGI_2024.pdf"
+  },
+  {
+   "title": "Detox diets for toxin elimination and weight management: a critical review (Klein & Kiat, 2015)",
+   "publisher": "Journal of Human Nutrition and Dietetics",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/jhn.12286"
+  },
+  {
+   "title": "The Story of My Experiments with Truth",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth"
+  },
+  {
+   "title": "Effectiveness of yoga for hypertension: systematic review and meta-analysis (Hagins et al., 2013)",
+   "publisher": "PubMed Central",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3679769/"
+  },
+  {
+   "title": "National Naturopathy Day: realm of alternative medicine",
+   "publisher": "ETV Bharat",
+   "url": "https://www.etvbharat.com/english/sukhibhava/sukhibhava-news/national-naturopathy-day/na20231117235029246246455"
+  }
+ ]
+}
